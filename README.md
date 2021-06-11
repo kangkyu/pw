@@ -1,5 +1,5 @@
 # pw
-convenient command for generating 9 digit password
+A convenient command for generating (9 digit) passwords.
 
 ## How to Use
 
